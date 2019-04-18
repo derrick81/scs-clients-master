@@ -17,4 +17,4 @@ An introduction to Spring Cloud Services using "Spring Cloud Finchley" running l
 ![alt tag](https://i.ibb.co/4YkbFtQ/SCS2-x-PCF-3.png)
 
 <hr />
-Pas Apicella [papicella at pivotal.io] is an Advisory Platform Architect at Pivotal APJ # scs-clients-master
+Credits to Pas Apicella [papicella at pivotal.io]
